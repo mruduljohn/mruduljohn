@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mrudul John Mathews</h1>
 <h3 align="center">A passionate Python developer,Graphic Designer & IT Support Professional from India crafting technical solutions with a creative touch</h3>
 
-<p align="left"> <a href="https://twitter.com/mruduljohnm" target="blank"><img src="https://img.shields.io/twitter/follow/mruduljohnm?logo=twitter&style=for-the-badge" alt="mruduljohnm" /></a> </p>
-
 - 🔭 I’m currently working on **Project Charge IT**
 
 - 🌱 I’m currently learning **Advanced Python**
