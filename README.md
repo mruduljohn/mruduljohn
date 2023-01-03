@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://mruduljohn.github.io)
+[![MasterHead](https://media2.giphy.com/media/z5NbI58zR5S0gs6AuL/giphy.gif?cid=790b7611c257fc2374c272fb6c2d038cde791b007a7e58ab&rid=giphy.gif&ct=g)](https://mruduljohn.github.io)
 <h1 align="center">Hi 👋, I'm Mrudul John Mathews</h1>
 <h3 align="center">A passionate Python developer,Graphic Designer & IT Support Professional from Kochi <br>Crafting technical solutions with a creative touch</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
