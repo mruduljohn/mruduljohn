@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mruduljohn](https://github.com/mruduljohn)
+- 👨‍💻 Some of my projects are available at [https://github.com/mruduljohn](https://github.com/mruduljohn)
 
 - 💬 Ask me about **Designing Stuffs , All your doubts where u need an IT support**
 
