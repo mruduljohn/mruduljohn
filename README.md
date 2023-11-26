@@ -1,7 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/67854062/210376539-c9847de6-0c69-4782-bf9a-90589a9a15c1.gif)](https://mruduljohn.github.io)
 <h1 align="center">Hi 👋, I'm Mrudul John Mathews</h1>
 <h3 align="center">A passionate Python developer,Graphic Designer & IT Support Professional from Kochi <br>Crafting technical solutions with a creative touch</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<p align="center">
+<img src="https://img.shields.io/badge/Age-20-blue" />
+  <img src="https://img.shields.io/badge/Lives-Kerala-success" />
+</p>
+<img align="right" alt="Coding" width="400" src="https://github.com/mruduljohn/mruduljohn/assets/67854062/397a7729-57f5-4ba2-be0a-365eb0ad78fd">
 
 - 🔭 I’m currently working on **Project Charge IT**
 
